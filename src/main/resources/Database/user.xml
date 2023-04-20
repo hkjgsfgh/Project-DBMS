@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--表名 :user-->
+<users> 
+  <keys primary_key="" isRelated="false"> 
+    <FKey FK="id" PK="id" tableName="student"/> 
+  </keys>  
+  <attributes id="int" name="varchar(10)" sex="varchar(1)"/>  
+  <user id="1" name="'vox'" sex="'f'"/>
+  <user id="2" name="'ff'" sex="'m'"/> 
+</users>

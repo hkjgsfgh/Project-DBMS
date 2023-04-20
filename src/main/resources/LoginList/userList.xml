@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users> 
+  <user username="hx66132" password="Hx1551986048" create="true" all="student," select="student," insert="student," update="" delete="student," alter="student," drop="student,"/>  
+  <user username="root" password="1234" create="true" all="user,student," select="user,student," insert="user,student," update="user,student," delete="user,student," alter="user,student," drop="user,student,"/>  
+  <user username="Taka" password="12345" create="false" all="" select="student," insert="student," update="student," delete="student," alter="student," drop="student,"/> 
+</users>
